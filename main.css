@@ -1,0 +1,56 @@
+.a{
+background-color: aquamarine;
+text-align: center;
+border-radius: 20px 20px 20px 20px;
+border: 5px solid red;
+}
+.b{
+color: brown;
+
+
+
+}
+.c{
+color: green;
+
+
+
+}
+.v{
+background-color: yellow;
+color: green;
+text-align: center;
+}
+.n{
+background-color: yellow;
+color: green;
+text-align: center;
+}
+.z{
+color: green;
+}
+.cars_list{
+    border: 1px solid yellow;
+    background-color: black;
+    color: white;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.mmmm{
+    background-color: green;
+    color: white;
+    border: 1px solid yellow;
+}
+.mazza{
+    background-color: red;
+    columns: white;
+    border: 1px solid yellow;
+}
+.heey{
+    background-color: blue;
+    color: white;
+    border: 1px solid yellow;
+}
+table{
+    border-collapse: collapse;
+}
